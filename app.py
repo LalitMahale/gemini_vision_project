@@ -1,5 +1,4 @@
 import streamlit as st
-st.write("Running....")
 from PIL import Image
 import os
 from key import API_KEY
