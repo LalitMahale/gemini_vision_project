@@ -2,7 +2,7 @@ import streamlit as st
 from PIL import Image
 import os
 from key import API_KEY
-import google.generativeai as genai
+from google import generativeai as genai
 
 
 
